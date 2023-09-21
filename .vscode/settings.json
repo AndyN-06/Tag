@@ -1,0 +1,19 @@
+{
+  "compilerPath": "g++",
+  "includePath": [
+    "${workspaceFolder}/**",
+    "C:Users\\andre\\SFML-2.6.0-windows-vc17-64-bit\\SFML-2.6.0\\include" // Add the path to the SFML include directory
+  ],
+  "defines": [],
+  "compilerArgs": [],
+  "intelliSenseMode": "gcc-x64",
+  "browse": {
+    "path": [
+      "${workspaceFolder}",
+      "C:Users\\andre\\SFML-2.6.0-windows-vc17-64-bit\\SFML-2.6.0\\include" // Add the path to the SFML include directory
+    ],
+    "limitSymbolsToIncludedHeaders": true,
+    "databaseFilename": ""
+  }
+}
+
